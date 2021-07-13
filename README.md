@@ -2,7 +2,7 @@
 This is a GitHub repo for a individual class project for CMPT 365 at SFU.
 The goal of the Project is to design a GUI program to display audio waveforms, apply fade-in and fade-out from -20dB, and apply numerous effects to bmp images.
 
-###Audio
+### Audio
 This project uses the external API developed by goxr3plus to read .wav files and generates an array of samples.\
 The samples are then imported to Javafx.BarChart and displayed to the user.\
 The waveform can be transformed by applying a -20dB fade-in/fade-out from both end.
